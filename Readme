@@ -8,4 +8,6 @@ Four Variants
     pushing on_time_created buffer
     pushing pre_created data
 
-Draw function to see the track.
+With draw function to see the track.
+
+Add the script to a node2d and see/hear.
