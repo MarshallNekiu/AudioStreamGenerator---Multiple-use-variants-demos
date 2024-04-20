@@ -1,8 +1,11 @@
 A demo of how to use the AudioStreamGenerator from Godot Engine 4.x
+
 Four Variants
   Pushing frames
-    pushing on_time_created data_frame
+    pushing on_time_created frame
     pushing pre_created data
   Pushing Buffer
-    pushing on_time_created data_frame
+    pushing on_time_created buffer
     pushing pre_created data
+
+Draw function to see the track.
